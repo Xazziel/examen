@@ -10,7 +10,7 @@ public class Ventana extends JFrame {
     }
 
     public void createUI() {
-        JFrame frame = new JFrame("Replica UI");
+        JFrame frame = new JFrame("Multitask");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(900, 600);
 
